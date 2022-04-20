@@ -1,0 +1,1 @@
+This is a project to display basic HTML skills by making a simplistic recipes website.
