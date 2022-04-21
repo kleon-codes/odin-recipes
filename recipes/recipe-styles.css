@@ -1,0 +1,33 @@
+html {
+    background-color: azure;
+}
+.center {
+    text-align: center;
+}
+h1 {
+    font-family: Helvetica, sans-seif;
+    color: rgb(21, 122, 129);
+    font-size: 48px;
+}
+h2 {
+    font-family: Verdana, sans-seif;
+    color: rgb(123, 171, 226);
+    font-size: 32px;
+}
+img {
+    height: auto;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+ul,
+p,
+ol {
+    display: inline-block;
+    text-align: left;
+}
+li,
+p {
+    font-family: "Courier New", sans-seif;
+}
